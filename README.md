@@ -1,4 +1,4 @@
-![Vector Reaper.jpg](Vector Reaper.jpg)
+![Vector Reaper.jpg](Vector_Reaper.jpg)
 
 # VECTOR REAPER
 ### Turning Data into Discovery
