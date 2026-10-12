@@ -1,3 +1,5 @@
+![Vector Reaper](Vector Reaper.jpg.jpg)
+
 # VECTOR REAPER
 ### Turning Data into Discovery
 
