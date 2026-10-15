@@ -12,8 +12,6 @@ The dashboard transforms complex environmental datasets into accessible insights
 
 ## Header
 
----
-
 ### Environmental Indicators
 
 Temperature Trend: ↑ +2.4°C
