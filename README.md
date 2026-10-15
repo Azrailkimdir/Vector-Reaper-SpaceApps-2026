@@ -1,8 +1,6 @@
-![Vector Reaper.jpg](Vector_Reaper.jpg)
-
 ![Vector Reaper](Vector_Reaper.jpg)
 
-# 🚀 VECTOR REAPER
+# VECTOR REAPER
 
 ### Turning Data into Discovery
 
@@ -20,7 +18,7 @@ Our mission is to transform data into meaningful discoveries and develop technol
 
 ## Challenge
 
-### 🌍 Be An Earth System Trend Detective!
+### Be An Earth System Trend Detective!
 
 For the NASA Space Apps Challenge 2026, we are exploring how NASA Earth observation data can help identify environmental trends, reveal hidden patterns, and support a better understanding of our planet.
 
@@ -68,7 +66,7 @@ The challenge solution, datasets, analyses, code, visualizations, and final pres
 
 ---
 
-# 🌍 Current Project Concept
+# Current Project Concept
 
 ## EarthPulse AI
 
