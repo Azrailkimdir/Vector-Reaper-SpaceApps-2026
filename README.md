@@ -43,6 +43,7 @@ Team Member
 VECTOR REAPER
 
 ### Tagline
+
 **Turning Data into Discovery**
 
 ## Project Status
@@ -57,7 +58,7 @@ MIT License
 
 ## Current Project Concept
 
-## EarthPulse AI
+### EarthPulse AI
 
 ## Detecting Environmental Trends Before They Become Problems
 
