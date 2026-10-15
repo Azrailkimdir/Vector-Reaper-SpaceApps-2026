@@ -10,10 +10,12 @@ The dashboard transforms complex environmental datasets into accessible insights
 
 # Dashboard Layout
 
-┌────────────────────────────────────────────┐
-│               EarthPulse AI                │
-│ Detecting Environmental Trends             │
-└────────────────────────────────────────────┘
+```text
++------------------------------------------------+
+|                 EarthPulse AI                  |
+|     Detecting Environmental Trends             |
++------------------------------------------------+
+```
 
 Location: Ankara, Türkiye
 
