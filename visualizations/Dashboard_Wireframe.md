@@ -12,6 +12,18 @@ The dashboard transforms complex environmental datasets into accessible insights
 
 ## Header
 
+---
+
+### Environmental Indicators
+
+Temperature Trend: ↑ +2.4°C
+
+Vegetation Trend: ↓ -8%
+
+Drought Risk: Moderate
+
+Environmental Change: Increasing
+
 **EarthPulse AI**
 
 *Detecting Environmental Trends Before They Become Problems*
@@ -21,10 +33,6 @@ Location: Ankara, Türkiye
 Environmental Health Score: 74 / 100
 
 Status: Moderate Risk
-
-Location: Ankara, Türkiye
-
-Environmental Health Score: 74 / 100
 
 ------------------------------------------------
 
@@ -54,7 +62,7 @@ Trend Visualizations
 
 ------------------------------------------------
 
-AI Environmental Summary
+### AI Environmental Summary
 
 "Vegetation levels have decreased by 8% compared to historical averages.
 
