@@ -10,12 +10,17 @@ The dashboard transforms complex environmental datasets into accessible insights
 
 # Dashboard Layout
 
-```text
-+------------------------------------------------+
-|                 EarthPulse AI                  |
-|     Detecting Environmental Trends             |
-+------------------------------------------------+
-```
+## Header
+
+**EarthPulse AI**
+
+*Detecting Environmental Trends Before They Become Problems*
+
+Location: Ankara, Türkiye
+
+Environmental Health Score: 74 / 100
+
+Status: Moderate Risk
 
 Location: Ankara, Türkiye
 
