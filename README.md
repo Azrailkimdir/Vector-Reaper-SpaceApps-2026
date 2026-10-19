@@ -153,4 +153,4 @@ Vector-Reaper-SpaceApps-2026
 
 VECTOR REAPER
 
-Turning Data into Discovery 🚀
+Turning Data into Discovery 
