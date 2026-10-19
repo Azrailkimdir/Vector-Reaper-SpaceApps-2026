@@ -123,4 +123,34 @@ Vector-Reaper-SpaceApps-2026
 ├── images
 └── README.md
 
+---
 
+## Project Milestones
+
+✅ Team Formation
+
+✅ Challenge Selection
+
+✅ Project Proposal
+
+✅ System Architecture
+
+✅ Data Source Research
+
+✅ Dashboard Design
+
+✅ Environmental Risk Modeling
+
+🟡 Data Integration
+
+🟡 Trend Detection Engine
+
+🟡 Interactive Prototype
+
+🟡 Final NASA Space Apps Submission
+
+---
+
+VECTOR REAPER
+
+Turning Data into Discovery 🚀
