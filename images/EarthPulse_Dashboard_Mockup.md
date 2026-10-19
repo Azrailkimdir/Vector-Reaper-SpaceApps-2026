@@ -1,0 +1,1 @@
+# EarthPulse AI Dashboard Mockup
