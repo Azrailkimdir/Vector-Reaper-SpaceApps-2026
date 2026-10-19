@@ -46,6 +46,11 @@ Automatically generated summaries and reports.
 
 ## Mission
 
+## Current Dashboard Design
+
+- EarthPulse_Dashboard_Mockup.md
+  
+
 Make environmental change visible, understandable, and actionable.
 
 🌍 Visualize • 📊 Understand • 🚀 Act
