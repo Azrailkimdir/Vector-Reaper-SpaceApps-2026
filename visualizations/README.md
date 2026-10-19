@@ -43,13 +43,13 @@ Automatically generated summaries and reports.
 - NASA Data Visualizations
 
 ---
-
-## Mission
-
 ## Current Dashboard Design
 
 - EarthPulse_Dashboard_Mockup.md
-  
+
+---
+
+## Mission
 
 Make environmental change visible, understandable, and actionable.
 
