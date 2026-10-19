@@ -124,6 +124,9 @@ Vector-Reaper-SpaceApps-2026
 └── README.md
 
 ```
+## License
+
+MIT License
 
 ## Project Milestones
 
@@ -148,7 +151,6 @@ Vector-Reaper-SpaceApps-2026
 🟡 Interactive Prototype
 
 🟡 Final NASA Space Apps Submission
-
 
 
 VECTOR REAPER
