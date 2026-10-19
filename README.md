@@ -124,7 +124,6 @@ Vector-Reaper-SpaceApps-2026
 └── README.md
 
 ```
---
 
 ## Project Milestones
 
